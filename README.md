@@ -2,6 +2,9 @@
 
 ### Lýsing
 Við ætlum að búa til leikjatölvu með raspberry pi sem er með sínum eigin controllerum.
+
+Semsagt controllerarnir tala við raspberry pi í gegnum bluetooth.
+
 ### Parta Listi
 - [x] Raspberry Pi
 - [x] Joy-Stick x2
