@@ -16,6 +16,8 @@ Semsagt controllerarnir tala við raspberry pi í gegnum bluetooth.
 - Skjár - eitthvað sem skólinn er hættur að nota.
 - Efni í case - https://www.thingiverse.com/thing:3334415
 - Arduino snúrur - https://www.gearbest.com/diy-parts-components/pp_009115042309.html?wid=1433363
+
+- Heildarverð: 58.13$ - 6998 ISK
 ### Nemendur
 - Jónas Freyr
 - Helgi Tuan
