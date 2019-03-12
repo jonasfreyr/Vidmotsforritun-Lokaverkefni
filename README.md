@@ -12,7 +12,7 @@ Semsagt controllerarnir tala við raspberry pi í gegnum bluetooth.
 - Arduino Micro - https://store.arduino.cc/arduino-micro
 - [x] Takkar
 - RGB - https://www.gearbest.com/led-strips/pp_826854.html?wid=1433363 x2
-- [O] Fjöltengi - https://elko.is/valueline-fjoltengi-me-3-innstungum-rofa-vles315f002wh
+- [x] Fjöltengi - https://elko.is/valueline-fjoltengi-me-3-innstungum-rofa-vles315f002wh
 - Skjár - eitthvað sem skólinn er hættur að nota.
 - Efni í case - https://www.thingiverse.com/thing:3334415
 - Arduino snúrur - https://www.gearbest.com/diy-parts-components/pp_009115042309.html?wid=1433363
