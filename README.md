@@ -1,5 +1,7 @@
 # Vidmotsforritun-Lokaverkefni
 
+Skýrsla - https://github.com/jonasfreyr/Vidmotsforritun-Lokaverkefni/wiki/Sk%C3%BDrsla
+
 ### Lýsing
 Við ætlum að búa til leikjatölvu með raspberry pi sem er með sínum eigin controllerum.
 
